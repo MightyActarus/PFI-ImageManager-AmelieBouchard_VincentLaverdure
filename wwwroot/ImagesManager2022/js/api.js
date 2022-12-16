@@ -1,5 +1,5 @@
-const apiBaseURL = "http://localhost:5000/api/images";
-const server = "http://localhost:5000";
+const apiBaseURL = "https://imagemanager-ab-vl.glitch.me/api/images";
+const server = "https://imagemanager-ab-vl.glitch.me";
 const service = "/api/images";
 
 function HEAD(successCallBack, errorCallBack) {
